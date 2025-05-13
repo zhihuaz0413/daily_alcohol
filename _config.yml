@@ -1,2 +1,8 @@
-theme: minima
+title: "Hodgepodge Stew"
 author: zz
+description: "A random blog blending robotics, autonomous driving, AI, and computing."
+theme: minima
+
+# Optional enhancements
+show_excerpts: true
+markdown: kramdown
