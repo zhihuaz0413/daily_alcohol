@@ -1,12 +1,13 @@
 ---
-title: My hodgepodge recipe
+layout: home
+title: My Hodgepodge Recipe
 ---
 
-# Welcome to My Hodgepodge Stew
+Welcome to **Hodgepodge Stew** — a mix of topics I love exploring:
 
-A blend of topics I'm passionate about:
+- 🦾 **Robotics** – sensing, motion, interaction  
+- 🚗 **Autonomous Driving** – perception, fusion, control  
+- 🧠 **Deep Learning & Foundation Models** – from transformers to multimodal AI  
+- 🖥️ **Computing Units** – hardware and systems powering intelligence
 
-- **Robotics** – How machines sense, plan, and move.  
-- **Autonomous Driving** – Perception, fusion, and intelligent control.  
-- **Deep Learning & Foundation Models** – Modern AI, from transformers to multimodal systems.  
-- **Computing Units** – Hardware and systems behind intelligent tech.
+Stay tuned for insights, experiments, and technical deep dives.
